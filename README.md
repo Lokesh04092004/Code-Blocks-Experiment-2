@@ -62,7 +62,7 @@ void main() {
 }
 
 🖥️ Sample Output
-<img width="1236" height="1108" alt="code block 2" src="https://github.com/user-attachments/assets/49621d52-6eda-4d7e-85e0-49a6ad75a1d6" />
+<img width="1600" height="900" alt="exp2 cn output" src="https://github.com/user-attachments/assets/2fe1d0c4-c5c6-4213-8951-06c0db0ffd61" />
 
 ✅ Result
 
